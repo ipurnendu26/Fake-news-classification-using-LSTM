@@ -1,0 +1,14 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.env.*
+!.env.example
+*.h5
+*.keras
+*.pkl
+.DS_Store
+.vscode/
+.idea/
